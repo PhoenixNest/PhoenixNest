@@ -4,6 +4,7 @@ I am PhoenixNest • (Peter Chen)
 
 - 🔭 I’m currently studying on Zhuhai College of Jilin University.
 - 🌱 I’m currently learning Software engineering.
+- ⚡ Fun fact: ...
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PhoenixNest)](https://github.com/PhoenixNest/github-readme-stats?theme=onedark)
 
