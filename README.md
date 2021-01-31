@@ -4,11 +4,7 @@
 
 + 🌱 I’m currently learning Software engineering.
 
----
-
-My Blog: [PhoenixNest's Blog](https://phoenixnest.github.io/)
-
----
++ 😄 Welcome to My Blog: [PhoenixNest's Blog](https://phoenixnest.github.io/)
 
 ![PhoenixNest's Github Stats](https://github-readme-stats.vercel.app/api?username=PhoenixNest&show_icons=true)
 
