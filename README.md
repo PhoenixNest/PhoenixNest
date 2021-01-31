@@ -1,11 +1,18 @@
-### Hi there 👋
+# Hi 👋, I am Peter Chen
 
-I am PhoenixNest • (Peter Chen)
++ 🔭 I’m currently studying on [Zhuhai College of Jilin University](https://www.jluzh.edu.cn/main.htm).
 
-- 🔭 I’m currently studying on Zhuhai College of Jilin University.
-- 🌱 I’m currently learning Software engineering.
++ 🌱 I’m currently learning Software engineering.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PhoenixNest)](https://github.com/PhoenixNest/github-readme-stats?theme=onedark)
+---
+
+My Blog: [PhoenixNest's Blog](https://phoenixnest.github.io/)
+
+---
+
+![PhoenixNest's Github Stats](https://github-readme-stats.vercel.app/api?username=PhoenixNest&show_icons=true)
+
+![PhoenixNest's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PhoenixNest&layout=compact&hide=html)
 
 <!--
 **PhoenixNest/PhoenixNest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
