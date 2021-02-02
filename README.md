@@ -6,9 +6,9 @@
 
 + 😄 Welcome to My Blog: [PhoenixNest's Blog](https://phoenixnest.github.io/)
 
-![PhoenixNest's Github Stats](https://github-readme-stats.vercel.app/api?username=PhoenixNest&show_icons=true)
+![Peter Chen's Github Stats](https://github-readme-stats.vercel.app/api?username=PhoenixNest&show_icons=true&theme=blueberry)
 
-![PhoenixNest's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PhoenixNest&layout=compact&hide=html)
+![Peter Chen's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PhoenixNest&layout=compact&hide=html&theme=blueberry)
 
 <!--
 **PhoenixNest/PhoenixNest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
