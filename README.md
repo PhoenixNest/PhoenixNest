@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋, I am Peter Chen </h1>
+# Hi 👋, I am Peter Chen
 
 + 🏫 I’m currently studying on [Zhuhai College of Jilin University](https://www.jluzh.edu.cn/main.htm).
 
@@ -8,11 +8,9 @@
 
 + 🏊‍ I like **Swimming** in my spare time。
 
----
+## 😄 My Development Kit
 
-<h2 align="center">😄 My Development Kit：</h2>
-
-<h3 align="center">💻 Languages：
+<h3 align="left">💻 Languages：
   &nbsp
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="24"/>
   &nbsp
@@ -26,7 +24,7 @@
   &nbsp
 </h3>
 
-<h3 align="center">🔧 Tools：
+<h3 align="left">🔧 Tools：
   &nbsp
   <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Github" height="24"/>
   &nbsp
@@ -36,7 +34,7 @@
   &nbsp
 </h3>
 
-<h3 align="center">🌏 Database：
+<h3 align="left">🌏 Database：
   &nbsp
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySQL" height="24"/>
   &nbsp
@@ -44,12 +42,10 @@
   &nbsp
 </h3>
 
----
-
-<p align="center">
-  <img align="center" style="margin:8px" src="https://github-readme-stats.vercel.app/api?username=PhoenixNest&show_icons=true&">
+<p align="left">
+  <img style="margin:8px" src="https://github-readme-stats.vercel.app/api?username=PhoenixNest&show_icons=true&">
   
-  <img align="center" style="margin:8px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhoenixNest&layout=compact&hide=html">
+  <img style="margin:8px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhoenixNest&layout=compact&hide=html">
 
   <!-- <img style="margin:8px" src="https://cdn.jsdelivr.net/gh/PhoenixNest/ImageBed@master/Profile/first_join_github.png"> -->
 </div>
@@ -60,6 +56,6 @@
 
 </details> -->
 
-<p align="center" style="margin:8px">
+<p align="left" style="margin:8px">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=phoenixnest.phoenixnest" alt="visitor badge" />
 </p>
