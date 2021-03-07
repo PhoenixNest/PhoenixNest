@@ -6,9 +6,7 @@
 
 + 📕 Welcome to my **Blog**: [PhoenixNest's Blog](https://phoenixnest.github.io/).
 
-+ 🏊‍ I like **Swimming** in my spare time。
-
----
++ 🏊‍ I like **Swimming** in my spare time.
 
 ## 😄 My Development Kit
 
@@ -44,22 +42,23 @@
   &nbsp
 </h3>
 
+<details>
+  <summary>Some other achievements about me</summary>
+
 <p align="center">
+
+  <img style="margin:8px" src="https://cdn.jsdelivr.net/gh/PhoenixNest/ImageBed@master/Profile/first_join_github.png" alt="First Join Github">
+
   <img align="center" style="margin:8px" src="https://github-readme-stats.vercel.app/api?username=PhoenixNest&show_icons=true&">
   
   <img align="center" style="margin:8px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhoenixNest&layout=compact&hide=html">
 
-  <!-- <img style="margin:8px" src="https://cdn.jsdelivr.net/gh/PhoenixNest/ImageBed@master/Profile/first_join_github.png"> -->
-</div>
-
-<!-- 
-  <summary>Some other achievements about me</summary>
-  <br>
-
-</details> -->
+</p>
 
 ---
 
-<p align="center" style="margin:8px">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=phoenixnest.phoenixnest" alt="visitor badge" />
+<p align="center">
+  <img align="center" style="margin:8px" src="https://visitor-badge.laobi.icu/badge?page_id=phoenixnest.phoenixnest" alt="visitor badge" />
 </p>
+
+</details>
