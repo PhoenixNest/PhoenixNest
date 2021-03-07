@@ -44,18 +44,22 @@
   &nbsp
 </h3>
 
-<img style="margin:8px" src="https://github-readme-stats.vercel.app/api?username=PhoenixNest&show_icons=true&">
+<p align="center">
+  <img align="center" style="margin:8px" src="https://github-readme-stats.vercel.app/api?username=PhoenixNest&show_icons=true&">
   
-<img style="margin:8px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhoenixNest&layout=compact&hide=html">
+  <img align="center" style="margin:8px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhoenixNest&layout=compact&hide=html">
 
-<!-- <img style="margin:8px" src="https://cdn.jsdelivr.net/gh/PhoenixNest/ImageBed@master/Profile/first_join_github.png"> -->
+  <!-- <img style="margin:8px" src="https://cdn.jsdelivr.net/gh/PhoenixNest/ImageBed@master/Profile/first_join_github.png"> -->
+</div>
 
-<!-- <details>
+<!-- 
   <summary>Some other achievements about me</summary>
   <br>
 
 </details> -->
 
-<!-- <p align="center" style="margin:8px">
+---
+
+<p align="center" style="margin:8px">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=phoenixnest.phoenixnest" alt="visitor badge" />
-</p> -->
+</p>
