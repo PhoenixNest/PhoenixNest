@@ -43,7 +43,7 @@
 </h3>
 
 <details>
-  <summary>Some other achievements about me</summary>
+  <summary>Some other Achievements about me</summary>
 
 <p align="center">
 
