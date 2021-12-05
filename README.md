@@ -49,7 +49,7 @@
 
   <!-- <img style="margin:8px" src="https://cdn.jsdelivr.net/gh/PhoenixNest/ImageBed@master/Profile/first_join_github.png" alt="First Join Github"> -->
 
-  | <img align="center" style="margin:8px" src="https://github-readme-stats.vercel.app/api?username=PhoenixNest&show_icons=true&include_all_commits=true&theme=onedark&hide_border=true" alt="Anurag's github stats" /> | <img align="center"  style="margin:8px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhoenixNest&layout=compact&hide=html&theme=onedark&hide_border=true" />  |
+  | <img align="center" style="margin:8px" src="https://github-readme-stats.vercel.app/api?username=PhoenixNest&show_icons=true&include_all_commits=true&theme=onedark&hide_border=true" /> | <img align="center"  style="margin:8px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhoenixNest&layout=compact&hide=html&theme=onedark&hide_border=true" />  |
   |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
   
 </p>
