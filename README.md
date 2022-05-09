@@ -1,6 +1,6 @@
 # Hi 👋, I am Peter Chen
 
-+ 🏫 I’m currently studying on [Zhuhai College of Jilin University](https://www.jluzh.edu.cn/main.htm).
++ 🏫 I’m currently studying on [ZhuHai College of JiLin University](https://www.jluzh.edu.cn/main.htm).
 
 + 👨‍🎓 I’m currently learning **Software engineering**.
 
@@ -18,9 +18,13 @@
   &nbsp
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" height="24"/>
   &nbsp
+  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" height="24"/>
+  &nbsp
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" height="24"/>
   &nbsp
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" height="24"/>
+  &nbsp
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" height="24"/>
   &nbsp
 </h3>
 
@@ -28,7 +32,9 @@
   &nbsp
   <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Github" height="24"/>
   &nbsp
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="Visual Studio Code" height="24"/>
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" alt="Docker" height="24"/>
+  &nbsp
+  <img src="https://upload.vectorlogo.zone/logos/visualstudio_code/images/0aea25bb-27bb-427f-8d65-f999bf0cba67.svg" alt="Visual Studio Code" height="24"/>
   &nbsp
   <img src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" alt="JetBrains" height="24"/>
   &nbsp
