@@ -8,7 +8,7 @@
 
 + 🏊‍ I like **Swimming** in my spare time.
 
-## 😄 My Development Kit
+## 🤠 My Development Kit
 
 <h3 align="left">💻 Languages：
   &nbsp
@@ -55,8 +55,12 @@
 
   <!-- <img style="margin:8px" src="https://cdn.jsdelivr.net/gh/PhoenixNest/ImageBed@master/Profile/first_join_github.png" alt="First Join Github"> -->
 
-  | <img align="center" style="margin:8px" src="https://github-readme-stats.vercel.app/api?username=PhoenixNest&show_icons=true&include_all_commits=true&theme=onedark&hide_border=true" /> | <img align="center"  style="margin:8px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhoenixNest&layout=compact&hide=html&theme=onedark&hide_border=true" />  |
-  |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+  | <img align="center" style="margin:8px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PhoenixNest&theme=dracula" /> | <img align="center"  style="margin:8px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PhoenixNest&theme=dracula" />  |
+  |:-------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+  
+  
+  | <img align="center" style="margin:8px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PhoenixNest&theme=dracula" /> | <img align="center"  style="margin:8px" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PhoenixNest&theme=dracula&utcOffset=8" />  |
+  |:------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
   
 </p>
 
