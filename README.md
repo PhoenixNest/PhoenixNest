@@ -1,8 +1,8 @@
 # Hi 👋, I am Peter Chen
 
-+ 🏫 I’m currently studying on [ZhuHai College of JiLin University](https://www.jluzh.edu.cn/main.htm).
++ 🏫 I graduated from [ZhuHai College of JiLin University](https://www.jluzh.edu.cn/main.htm).
 
-+ 👨‍🎓 I’m currently learning **Software engineering**.
++ 👨‍🎓 My major is **Software engineering**.
 
 + 📕 Welcome to my **Blog**: [PhoenixNest's Blog](https://phoenixnest.github.io/).
 
