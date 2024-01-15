@@ -1,6 +1,6 @@
 # Hi 👋, I am Peter Chen
 
-+ 🏫 I graduated from [ZhuHai College of JiLin University](https://www.jluzh.edu.cn/main.htm).
++ 🏫 I am graduated from [ZhuHai College of JiLin University](https://www.jluzh.edu.cn/main.htm).
 
 + 👨‍🎓 My major is **Software engineering**.
 
